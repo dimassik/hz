@@ -1,1 +1,2 @@
 branching-model
+https://habrahabr.ru/post/106912/
